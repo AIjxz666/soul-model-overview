@@ -10,6 +10,12 @@
 
 ---
 
+> **许可 / License：** 本文档以 [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/) 发布 —— 欢迎转载，须署名、禁止商用、禁止演绎。完整条款见 [LICENSE](LICENSE)。
+>
+> ***License:** This document is released under [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/) — sharing is welcome with attribution; commercial use and derivatives are not permitted. Full terms in [LICENSE](LICENSE).*
+
+---
+
 ## 关于本文档
 
 ## About This Document
