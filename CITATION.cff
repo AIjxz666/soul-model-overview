@@ -2,7 +2,7 @@ cff-version: 1.2.0
 message: "If you use this work, please cite it as below."
 title: "灵魂大模型 · 全景介绍（中英对照）"
 abstract: "一套以频率波为唯一计算单元的认知系统：三层架构、五种干涉运算、八步投喂管线，以及已实测的工程结果。A cognitive system whose sole computational unit is the frequency wave: three-layer architecture, five interference operations, an eight-step feeding pipeline, and measured engineering results."
-type: report
+type: software
 authors:
   - family-names: "AIjxz666"
     website: "https://github.com/AIjxz666"
