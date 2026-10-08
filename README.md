@@ -2,6 +2,8 @@
 
 # Soul Large Model · Panorama (Chinese-English Bilingual)
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23238578.svg)](https://doi.org/10.5281/zenodo.23238578)
+
 ---
 
 > 本文档为对外介绍材料。全部路径以占位符表示（`<主工作目录>` / `<语料目录>` / `<Python 解释器>`），语料以 `语料样本 #N` 表示。技术内容与实测数字不做删减。
